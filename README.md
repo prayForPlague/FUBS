@@ -2,7 +2,7 @@
 
 CONTAINS CONTENT INTENDED FOR MATURE AUDIENCES
 
-### contents
+### Contents
 
 - [About](#About)
 - [Setup](#Setup)
@@ -52,7 +52,7 @@ FUBS is Copyright (c) 2016 p4p.
 
 Use of this source along with other parts of Fucked Up Burger Shack are governed to terms inspired by those for Minecraft.
 
-ONE MAJOR RULE
+###ONE MAJOR RULE
 
 The one major rule is that you must not distribute anything we've made unless we specifically agree to it. By "distribute anything we've made" what we mean is:
 
