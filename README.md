@@ -27,8 +27,11 @@ This is the public source of the text based game Fucked Up Burger Shack. The rep
 ## <a id="Links">Links</a>
 
 [Bunkville blog](https://bunkville.blogspot.com)
+
 [FUBS main page](https://bunkville.blogspot.com/p/fucked-up-burger-shack.html)
+
 [FUBS Modding Policy](https://bunkville.blogspot.com/p/fucked-up-burger-shack-modding-policy.html)
+
 [FUBS Roadmap](https://bunkville.blogspot.com/p/fubs-roadmap.html)
 
 
