@@ -1,7 +1,8 @@
 # FUBS
 
-**CONTAINS CONTENT INTENDED FOR MATURE AUDIENCES**
-**ADULTS ONLY**
+**This repo contains MATURE CONTENT**
+
+**Content suitable only for adults ages 18 and up.**
 
 ### Contents
 
